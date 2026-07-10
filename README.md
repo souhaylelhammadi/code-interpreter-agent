@@ -11,6 +11,7 @@ Une application moderne et modulaire construite avec **Streamlit**, **LangChain*
 - **Vitesse Groq** : Propulsé par l'infrastructure ultra-rapide de Groq.
 
 ---
+<img width="1470" height="956" alt="Capture d’écran 2026-07-10 à 21 47 46" src="https://github.com/user-attachments/assets/e322e5bc-290e-4c4f-a005-bb63d592f10a" />
 
 ## 📂 Structure du Projet
 ```text
@@ -24,4 +25,4 @@ code-interpreter-agent/
 ├── requirements.txt   # Dépendances du projet
 └── .env               # Variables d'environnement (Non suivi par Git)
 
-<img width="1470" height="956" alt="Capture d’écran 2026-07-10 à 21 47 46" src="https://github.com/user-attachments/assets/e322e5bc-290e-4c4f-a005-bb63d592f10a" />
+'''
